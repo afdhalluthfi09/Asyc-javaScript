@@ -1,0 +1,25 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "buat demon",
+  "main": "./ajax/index.js",
+  "dependencies": {
+    "demon": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "nodemon -e js,html ajax/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afdhalluthfi09/Asyc-javaScript.git"
+  },
+  "author": "luthfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afdhalluthfi09/Asyc-javaScript/issues"
+  },
+  "homepage": "https://github.com/afdhalluthfi09/Asyc-javaScript#readme"
+}
